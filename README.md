@@ -11,16 +11,16 @@ Aplikasi web pengelolaan menu kafe "Kop(i) Des(i)" yang dibuat dengan Laravel (a
 ## Screenshot
 
 ### Halaman Login
-![Login](screenshots/login.png)
+![Login](screenshots/login.png.png)
 
 ### Halaman Dashboard
-![Dashboard](screenshots/dashboard.png)
+![Dashboard](screenshots/dashboard.png.png)
 
 ### Halaman Profil
-![Profil](screenshots/profil.png)
+![Profil](screenshots/profil.png.png)
 
 ### Halaman Pengelolaan Menu
-![Pengelolaan](screenshots/pengelolaan.png)
+![Pengelolaan](screenshots/pengelolaan.png.png)
 
 ## Cara Menjalankan Aplikasi
 1. `composer install`
